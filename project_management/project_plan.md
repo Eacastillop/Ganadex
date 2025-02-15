@@ -32,7 +32,6 @@ Este proyecto tiene como objetivo desarrollar un modelo de predicción de precio
 - **Project Manager:** Coordinación del proyecto y seguimiento de avances.
 - **Data Engineer:** Ingesta, transformación y almacenamiento de datos.
 - **Data Scientist:** Modelado, entrenamiento y optimización del algoritmo.
-- **Cloud Engineer:** Despliegue del modelo en AWS y monitoreo del endpoint.
 
 Este plan de trabajo garantiza un desarrollo estructurado, asegurando la correcta ejecución del proyecto y su alineación con los objetivos establecidos.
 
